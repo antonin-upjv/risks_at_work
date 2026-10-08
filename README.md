@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <a href="https://antonin-upjv.github.io/risks_at_work/" target="_blank">
+  <a href="https://antonin-upjv.github.io/risks_at_work/" target="_blank" rel="noopener noreferrer">
     <strong>🌐 Live Demo →</strong>
   </a>
 </p>
