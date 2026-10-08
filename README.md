@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="mockups/iPhone_dark_theme.png" alt="iPhone - Dark Theme" width="300">
-  <img src="mockups/Mac_dark_mode.png" alt="Mac - Dark Theme" width="300">
+  <img src="mockups/Mac_dark_theme.png" alt="Mac - Dark Theme" width="300">
 </p>
 
 <br>
